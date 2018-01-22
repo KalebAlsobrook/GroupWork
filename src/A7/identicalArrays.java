@@ -35,7 +35,7 @@ public class identicalArrays
             System.out.println("Arrays are NOT identical!");
         }
 
-    }
+    }//:)
 
     public static boolean equals(int []list1, int []list2) //the method accepts 2 arrays
     {
